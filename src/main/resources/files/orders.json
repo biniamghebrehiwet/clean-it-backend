@@ -1,0 +1,20 @@
+[
+  {
+    "orderId": 1,
+    "orderType": "Test Type",
+    "textileType": "Test Textile",
+    "entryTime": "12.02.2022",
+    "orderStatus": "open",
+    "orderAmount": "29.99 CHF",
+    "customerName": "Hans Muster"
+  },
+  {
+    "orderId": 2,
+    "orderType": "Test Type 2",
+    "textileType": "Test Textile 2",
+    "entryTime": "12.02.2022 2",
+    "orderStatus": "closed",
+    "orderAmount": "39.99 CHF",
+    "customerName": "Peter Müller"
+  }
+]
